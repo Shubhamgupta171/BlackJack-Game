@@ -1,0 +1,32 @@
+html{
+    height: 100%;
+}
+body{
+    font-family :'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background: url("darkgreen.webp");
+    height: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    color: rgb(32, 168, 218);
+}
+
+.container{
+    text-align: center;
+    font-size: x-large; 
+}
+
+p,span{
+    color:aliceblue;
+}
+.name_btn{
+    margin-top: 5px;
+    padding: 5px 30px;
+}
+button{
+    background: goldenrod;
+    padding: 10px 50px;
+    font-weight:900;
+}
