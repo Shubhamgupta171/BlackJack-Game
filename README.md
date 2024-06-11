@@ -1,6 +1,7 @@
 # BlackJack-Game
-blackjack game using html css and javascript
-Our Deployment 
-![Click Here ](https://black-jack-game-three-gamma.vercel.app) 
 
+This is a simple blackjack game implemented using HTML, CSS, and JavaScript.
 
+## Deployment
+
+You can play the game online by clicking [here](https://black-jack-game-three-gamma.vercel.app/).
